@@ -7,3 +7,7 @@ I started off using this link (<https://itnext.io/choosing-the-right-file-struct
 ## Entry Point
 
 The App component is the entry point for the application, and should contain routing and descriptions of all the other components and what they are trying to achieve.
+
+## Blog
+
+There is also a blog of writings that I have made to teach/learn new concepts
