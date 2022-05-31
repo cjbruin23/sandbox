@@ -30,4 +30,10 @@ export class BigOComponent implements OnInit {
     }
     return hiArray;
   }
+
+  // This is O(1) time complexity, because length is a property
+  // May be different for another language
+  whatIsTheLengthOfAString(): number {
+    return 'sadfsdfsadsdf'.length;
+  }
 }
